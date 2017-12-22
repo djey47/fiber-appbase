@@ -13,7 +13,9 @@
   "author": "djey",
   "license": "ISC",
   "dependencies": {
-    "@blueprintjs/core": "^1.33.0",
+    "@blueprintjs/core": "^1.35.0",
+    "@blueprintjs/datetime": "^1.25.0",
+    "@blueprintjs/table": "^1.31.0",
     "react": "^16.1.1",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.1.1"
